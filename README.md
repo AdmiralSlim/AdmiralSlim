@@ -9,7 +9,7 @@
 
 - I’m an award winning product manager (First place position at Next Ton Startup Hackathon 2021)
 -  GDA Capital recognized PM
--  I co-founded CodeMeetsArt (A workshop for introducing youngsters into tech with a fuusion of art cuurriculum)
+-  I co-founded CodeMeetsArt (A workshop for introducing youngsters into tech with a fuusion of art curriculum)
 
 - 🌱 I’m currently learning AWS and ANSYS.
 
